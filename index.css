@@ -1,0 +1,55 @@
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para el encabezado h1 */
+h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* Estilos para el encabezado h2 dentro de un div */
+div h2 {
+    color: #666;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+/* Estilos para la lista desordenada */
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+/* Estilos para los elementos de la lista */
+li {
+    margin-bottom: 5px;
+}
+
+/* Estilos para el elemento li con strong dentro */
+li strong {
+    color: #0080ff;
+}
+
+/* Estilos para el elemento li con h1 dentro */
+li h1 {
+    font-size: 16px;
+    color: #ff6600;
+}
+
+/* Estilos para el enlace */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+/* Estilos para el enlace al pasar el mouse */
+a:hover {
+    text-decoration: underline;
+}
